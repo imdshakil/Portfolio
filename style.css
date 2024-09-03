@@ -1,0 +1,77 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar-container{
+    border-bottom: 2px solid #d8d8d8;
+    top: 0;
+    background-color:#f3f3f3;
+    position: sticky;
+    z-index: 2;
+}
+
+.about-container{
+    background-color: #f0f0f0;
+}
+
+.about_head{
+    color: #00a3cc;
+    line-height: 140%;
+}
+
+.about_det{
+    color: #5e5e5e;
+    line-height: 150%;
+}
+
+.service-container{
+    background-color: #fff;
+}
+
+.service_ele{
+    background-color: rgb(247, 247, 247);
+    border-radius: 5%;
+    border: 2px solid #ededed;
+}
+
+.portfolio-container{
+    background-color: #fafafa;
+}
+
+.education-container{
+    background-color: #fafafa;
+}
+
+.form-container{
+    background-color:rgb(46, 60, 66);
+}
+
+.inner-form{
+    background-color:rgb(31, 39, 43) ;
+}
+
+.footer{
+    background-color:rgb(0, 153, 255) ;
+}
+
+.ic-bt{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    font-size: 15px;
+    text-align: center;
+    color:rgb(0, 153, 255) ;
+}
+
+.ic-bt:hover{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color:rgb(167, 167, 167);
+    font-size: 15px;
+    text-align: center;
+    color:rgb(255, 255, 255) ;
+}
